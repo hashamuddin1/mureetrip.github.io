@@ -294,3 +294,36 @@ a {
   width: 80%;
   margin: 28px auto;
 }
+.bookwidth{
+  width: 100%;
+  margin: 14px 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+.headdis{
+  display: flex;
+}
+#headhead{
+  margin-top: 4px;
+  margin-left: 10px;
+}
+.colhead{
+  border: 2px solid black;
+  border-radius: 18px;
+  width: 80px;
+  text-align: center;
+  color: black!important;
+}
+.colhead:hover{
+  color: white!important;
+  background-color: black;
+}
+#foot{
+  background-color: black;
+  width: 100%;
+  display: flex;
+  padding: 15px;
+}
+.pad{
+  padding: 15px;
+}
